@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Taxually_Linux_Function_Test_App": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7204",
+      "launchBrowser": false
+    }
+  }
+}
